@@ -7,7 +7,8 @@ var quotes = ["How long since you checked something in?",
               "You're going to refactor that, right?",
               "What's the shortest line to the end of this task?",
               "You ain't gonna need it",
-              "Have you got a test for that?"];
+              "Have you got a test for that?",
+              "Talk is cheap. Show me the code."];
 
 
 
