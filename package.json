@@ -3,8 +3,15 @@
   "version": "0.0.1",
   "description": "Random XP Programming Wisdom",
   "main": "index.js",
+  "dependencies": {
+    "say": ">= 0.6.0",
+    "underscore": "1.8.3"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "pair-programming-bot": "index.js"
   },
   "author": "",
   "license": "MIT"
