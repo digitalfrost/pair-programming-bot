@@ -17,6 +17,10 @@
     "type": "git",
     "url": "https://github.com/digitalfrost/pair-programming-bot"
   },
-  "author": "",
+  "author": {
+    "name": "alphacoder",
+    "email": "gerald@thealphacoder.com",
+    "url": "http://www.thealphacoder.com"
+  },
   "license": "MIT"
 }
