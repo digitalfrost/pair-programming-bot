@@ -11,7 +11,8 @@ var quotes = ["How long since you checked something in?",
               "Talk is cheap. Show me the code.",
               "Good design adds value faster than it adds cost.",
               "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.",
-              "I don't care if it works on your machine! We are not shipping your machine!"];
+              "When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.",
+              "When you find you have to add a feature to a program, and the program's code is not structured in a convenient way to add the feature, first refactor the program to make it easy to add the feature, then add the feature."];
 
 
 
