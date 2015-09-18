@@ -7,4 +7,5 @@ Inspired by a post by Jb Rainsberger on [Extreme Prommming For one](http://c2.co
 > - What's the shortest line to the end of this task?
 > - YAGNI!
 > - Have you got a test for that?
+
 > There are others... you get the idea. -- **JbRainsberger**

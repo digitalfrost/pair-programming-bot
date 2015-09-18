@@ -13,6 +13,10 @@
   "bin": {
     "pair-programming-bot": "index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digitalfrost/pair-programming-bot"
+  },
   "author": "",
   "license": "MIT"
 }
