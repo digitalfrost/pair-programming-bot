@@ -30,7 +30,6 @@ function getRandomInt(min, max) {
     var minute = 60000;
     var every = getRandomInt(1,45) * minute
     setTimeout(function() {
-            //alert('A');
             sayQuote();
             loop();
     }, every);
