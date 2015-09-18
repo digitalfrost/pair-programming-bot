@@ -8,7 +8,10 @@ var quotes = ["How long since you checked something in?",
               "What's the shortest line to the end of this task?",
               "You ain't gonna need it",
               "Have you got a test for that?",
-              "Talk is cheap. Show me the code."];
+              "Talk is cheap. Show me the code.",
+              "Good design adds value faster than it adds cost.",
+              "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.",
+              "I don't care if it works on your machine! We are not shipping your machine!"];
 
 
 
